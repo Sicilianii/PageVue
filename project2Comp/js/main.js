@@ -1,4 +1,4 @@
-let API = 'https://raw.githubusercontent.com/GeekBrainsTutorial/online-store-api/master/responses/';
+let API = 'https://';
 
 const list = new Vue({
     el: '#app',
